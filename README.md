@@ -15,7 +15,6 @@ Currently teaching AI to judge movies with sentiment analysis—because even mac
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devjoshi0&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devjoshi0&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoshi0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devjoshi0&icon=2&color=11)](https://visitcount.itsvg.in)
