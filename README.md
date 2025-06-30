@@ -2,7 +2,7 @@
 ### 👋 Hey, I’m Dev!
 
 🎬 Software Engineering Student by day brewing ML models and tea (addicted, really).  
-Currently teaching AI to judge movies with sentiment analysis—because even machines deserve taste.  
+Currently creating an AI personalized newsletter system (idk how to web scrape yet)
 💻 Python, JS, C#, C++, and whatever else makes my terminal cry.
 
 > I want sleep.
