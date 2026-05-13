@@ -1,7 +1,7 @@
 
 ### 👋 Hey, I’m Dev!
 
-🎬 Software Engineering Student by day brewing ML models and tea.  
+🎬 Software Engineering Student 
 Currently creating an AI personalized newsletter system
 💻 Python, JS, C#, C++
 
