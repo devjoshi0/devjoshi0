@@ -2,7 +2,6 @@
 ### 👋 Hey, I’m Dev!
 
 🎬 Software Engineering Student 
-Currently creating an AI personalized newsletter system
 💻 Python, JS, C#, C++
 
 ## 🌐 Socials:
